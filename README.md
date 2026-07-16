@@ -4,8 +4,8 @@ The mutation detection and genetic disease prediction sysytem is a web applicati
 
 ## Team Members
 - Aqsa
-- Member 2
-- Member 3
+- MUNEEB
+- SAFEER
 
 ## Project Description
 This project detects mutations in DNA sequences and predicts genetic diseases using bioinformatics and machine learning techniques.
